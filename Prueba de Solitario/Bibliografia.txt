@@ -1,0 +1,17 @@
+La mayoria de las funciones musica, mouse, keyboard y labels las saque de aqui
+http://www.youtube.com/watch?v=kAbkFY6lwAY&list=PLHJE4y54mpC5j_x90UkuoMZOdmmL9-_rg
+Logica stack la desarrollada en clase
+imagenes
+Baraja Descargada en clase
+Ayuda de la pag
+http://sfml-dev.org/documentation/2.0-fr/Keyboard_8hpp_source.php
+Integrantes del Grupo
+Gadi Orellana
+Julissa Suazo
+Gustavo Suares
+
+Link de donde se descargo el audio
+http://www.jamendo.com/es/track/24034/the-dreamer-s-overture
+
+link imagen
+http://img2.wikia.nocookie.net/__cb20121122200230/horadeaventura/es/images/5/58/Fondo_hda_6.png

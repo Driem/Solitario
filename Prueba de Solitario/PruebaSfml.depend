@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1408564483 source:c:\users\dell-inspiron15r\desktop\examen estructuras\pruebasfml\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<stack>
+	<iostream>
+
+1408931701 source:c:\users\dell-inspiron15r\desktop\examen estructuras\prueba de slitario\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<stack>
+	<ctime>
+	<iostream>
+	<string.h>
+	<sstream>
+
+1408980258 source:c:\users\dell-inspiron15r\documents\github\archivos\prueba de solitario\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<stack>
+	<ctime>
+	<iostream>
+	<string.h>
+	<sstream>
+
+1411510371 source:c:\users\dell-inspiron15r\desktop\examen estructuras\prueba de solitario\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<stack>
+	<ctime>
+	<iostream>
+	<string.h>
+	<sstream>
+	<list>
+
